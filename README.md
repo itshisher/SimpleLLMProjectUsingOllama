@@ -33,7 +33,13 @@ This is a simple project to summarize a website by web scraping and parsing and 
    git clone git@github.com:itshisher/SimpleLLMProjectUsingOllama.git
    ```
 
-2. **Launch Jupyter lab:**
+2. **Activate the environment:**
+
+   ```
+   conda activate llms
+   ```
+
+3. **Launch Jupyter lab:**
 
    ```
    jupyter lab
