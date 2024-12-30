@@ -24,3 +24,22 @@ This is a simple project to summarize a website by web scraping and parsing and 
    ```
    http://localhost:11434/   
    ```
+
+## How to use the model
+
+1. **Clone the repository:**
+
+   ```
+   git clone git@github.com:itshisher/SimpleLLMProjectUsingOllama.git
+   ```
+
+2. **Launch Jupyter lab:**
+
+   ```
+   jupyter lab
+   ```
+
+3. **Open and run the notebooks:**
+   - Navigate to the directory called **SimpleLLMProjectUsingOllama** in the Jupyter lab interface.
+   - Choose **OllamaForLLM.ipynb** to continue. 
+   - Select and run the notebook under the folder by clicking the "Run" button or using "Shift + Enter".
